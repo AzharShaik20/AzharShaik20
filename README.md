@@ -4,13 +4,23 @@ I'm a full-stack developer currently focused on building a new web application. 
 
 ---
 
-### 💻 Skills
+🛠 Tech Stack
+Languages
+TypeScript JavaScript Python C C++ C#
 
-| **Front-End** | **Back-End** | **Databases** | **Deployment & DevOps** |
-| :------------ | :----------- | :------------ | :---------------------- |
-| HTML, CSS, JS | Node.js, PHP | SQL, MongoDB  | Git, Vercel, Render     |
+Web & Frameworks
+React Next.js Node.js Express.js FastAPI .NET React Native
 
----
+Databases & Cloud
+MongoDB MySQL PostgreSQL
+Supabase AWS Google Cloud Azure
+
+DevOps & Tools
+Docker Kubernetes GitHub Git
+Jira
+
+Data Science & ML
+TensorFlow NumPy Pandas scikit-learn
 
 ### 🚀 What I'm Up To
 
