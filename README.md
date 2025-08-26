@@ -3,6 +3,11 @@
 I'm a full-stack developer currently focused on building a new web application. I'm passionate about creating secure, scalable, and high-performance digital experiences from the ground up.
 
 ---
+---
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/your-username)
 
 ## 🛠️ Tech Stack
 
