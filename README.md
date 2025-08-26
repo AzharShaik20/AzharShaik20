@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Your Name]
+### 👋 Hi there, I'm Azhar Shaik
 
 I'm a full-stack developer currently focused on building a new web application. I'm passionate about creating secure, scalable, and high-performance digital experiences from the ground up.
 
@@ -46,10 +46,9 @@ I'm a full-stack developer currently focused on building a new web application. 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ### 🚀 What I'm Up To
 
--   **I'm currently working on:** Developing a new Web Application.
--   **I'm looking to collaborate on:** Web development projects.
--   **I'm interested in:** Enhancing security and scalability for my projects.
--   **I'm currently learning:** Advanced frameworks and libraries for AI-ML.
+-   **I'm currently working on Developing a new Web Application.
+-   **I'm interested in  Enhancing security and scalability for my projects.
+-   **I'm currently learning Advanced frameworks and libraries for AI-ML.
 
 ---
 
@@ -58,10 +57,6 @@ I'm a full-stack developer currently focused on building a new web application. 
 Feel free to ask me anything about:
 -   **Web development:** ReactJs, NextJs, Angular
 -   **Programming Languages:** TypeScript, C++, C, Python
--   **Mobile Development:** React Native, Flutter
--   **Other Tech:** AI, Appwrite, Firebase, Supabase, Clerk, and more.
-
----
 
 ### ✨ Fun Fact
 
