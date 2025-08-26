@@ -57,7 +57,3 @@ I'm a full-stack developer currently focused on building a new web application. 
 Feel free to ask me anything about:
 -   **Web development:** ReactJs, NextJs, Angular
 -   **Programming Languages:** TypeScript, C++, C, Python
-
-### ✨ Fun Fact
-
-I built an award-winning website in under 24 hours at a hackathon.
